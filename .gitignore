@@ -4,6 +4,7 @@
 *.dat
 *.xlsx
 *.xls
+credentials/
 
 .DS_Store
 # Byte-compiled / optimized / DLL files

@@ -13,4 +13,4 @@ Thanks
 
 Robin
 ---------
-Founder, GlassDB
+GlassDB
